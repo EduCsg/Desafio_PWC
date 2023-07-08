@@ -1,0 +1,7 @@
+{
+	"name": "desafio_em_javascript",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Eduardo Casagrande",
+	"type": "module"
+}
