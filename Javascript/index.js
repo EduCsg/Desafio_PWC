@@ -1,7 +1,7 @@
 import * as challenges from "./exercicios/export.js";
 
 console.log("Exercício 01");
-console.log(challenges.ex01());
+console.log(challenges.ex01("Hello, World! OpenAI is amazing."));
 console.log("");
 
 console.log("Exercício 02");

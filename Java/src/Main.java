@@ -7,7 +7,7 @@ import Exercicios.Ex05;
 class Main {
     public static void main(String[] args) {
         System.out.println("Exercicio 01");
-        System.out.println(Ex01.main());
+        System.out.println(Ex01.main("Hello, World! OpenAI is amazing."));
 
         System.out.print('\n');
 
