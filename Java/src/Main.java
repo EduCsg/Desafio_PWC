@@ -14,8 +14,8 @@ class Main {
         System.out.println(Ex02.main("Hello, World!"));
         System.out.print('\n');
 
-        // System.out.println("Exercicio 03");
-        // System.out.println(Ex03.main());
+        System.out.println("Exercicio 03");
+        System.out.println(Ex03.main("babad"));
         System.out.print('\n');
 
         System.out.println("Exercicio 04");

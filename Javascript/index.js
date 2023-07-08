@@ -9,7 +9,7 @@ console.log(challenges.ex02("Hello, World!"));
 console.log("");
 
 console.log("Exercício 03");
-console.log(challenges.ex03());
+console.log(challenges.ex03("babad"));
 console.log("");
 
 console.log("Exercício 04");
