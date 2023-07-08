@@ -8,23 +8,20 @@ class Main {
     public static void main(String[] args) {
         System.out.println("Exercicio 01");
         System.out.println(Ex01.main("Hello, World! OpenAI is amazing."));
-
         System.out.print('\n');
 
         System.out.println("Exercicio 02");
         System.out.println(Ex02.main("Hello, World!"));
-
         System.out.print('\n');
 
-        System.out.println("Exercicio 03");
-        System.out.println(Ex03.main());
-
+        // System.out.println("Exercicio 03");
+        // System.out.println(Ex03.main());
         System.out.print('\n');
 
         System.out.println("Exercicio 04");
-        System.out.println(Ex04.main());
-
+        System.out.println(Ex04.main("hello, how are you? i'm fine, thank you."));
         System.out.print('\n');
+
         System.out.println("Exercicio 05");
         System.out.println(Ex05.main());
     }
