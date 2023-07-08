@@ -5,7 +5,7 @@ console.log(challenges.ex01("Hello, World! OpenAI is amazing."));
 console.log("");
 
 console.log("Exercício 02");
-console.log(challenges.ex02());
+console.log(challenges.ex02("Hello, World!"));
 console.log("");
 
 console.log("Exercício 03");

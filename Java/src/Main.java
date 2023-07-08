@@ -12,7 +12,7 @@ class Main {
         System.out.print('\n');
 
         System.out.println("Exercicio 02");
-        System.out.println(Ex02.main());
+        System.out.println(Ex02.main("Hello, World!"));
 
         System.out.print('\n');
 
