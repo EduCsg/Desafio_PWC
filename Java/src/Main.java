@@ -23,6 +23,6 @@ class Main {
         System.out.print('\n');
 
         System.out.println("Exercicio 05");
-        System.out.println(Ex05.main());
+        System.out.println(Ex05.main("racecar"));
     }
 }

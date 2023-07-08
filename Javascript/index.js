@@ -17,4 +17,5 @@ console.log(challenges.ex04("hello, how are you? i'm fine, thank you."));
 console.log("");
 
 console.log("Exercício 05");
-console.log(challenges.ex05());
+console.log(challenges.ex05("racecar"));
+console.log("");
